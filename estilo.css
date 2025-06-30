@@ -1,0 +1,37 @@
+h1{
+    color: rgb(98, 78, 116);
+    text-align: center;}
+
+h4{
+    font-size: 20px;}
+
+p{
+    font-size: larger;
+    text-align: justify;}
+
+ul{
+    line-height: 30px; 
+    font-size: large;}
+
+#beerimg{
+    border-radius: 10%;
+    position: relative;
+    width: 300px;
+    left: 300px;
+    bottom: 150px;
+    }
+
+    table{
+        background-color: rgb(243, 210, 220);
+        border-color: aliceblue;}
+
+body{background-color: rgb(218, 236, 230);}
+
+.link{
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 120px; 
+}
+
+.link:hover{color: blue;}
